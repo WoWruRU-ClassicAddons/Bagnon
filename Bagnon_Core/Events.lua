@@ -70,6 +70,7 @@ end
 local function HaveLocalizedInfo()
 	local locale = GetLocale()
 	return (locale == "enUS" or
+			locale == "ruRU" or
 			locale == "deDE" or
 			locale == "frFR" or
 			locale == "zhCN" or

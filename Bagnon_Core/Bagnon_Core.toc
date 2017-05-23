@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: Bagnon_Core
 ## Notes: Core functionality for Bagnon and Banknon
+## Notes-ruRU: Базовые функции для Bagnon и Banknon
 ## Author: Tuller
 ## Version: 6.10.22
 ## Dependencies: 
@@ -9,6 +10,7 @@
 lib\TLib.lua
 lib\Infield.lua
 localization.lua
+trans\localization.ru.lua
 trans\localization.es.lua
 trans\localization.de.lua
 trans\localization.fr.lua

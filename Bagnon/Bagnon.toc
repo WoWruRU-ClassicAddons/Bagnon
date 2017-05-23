@@ -1,6 +1,7 @@
 ## Interface: 11200
 ## Title: Bagnon
 ## Notes: Displays the player's inventory in a single frame.
+## Notes-ruRU: Отображает все сумки игрока в одном окне.
 ## Author: Tuller
 ## Dependencies: Bagnon_Core
 ## LoadOnDemand: 1

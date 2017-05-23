@@ -1,10 +1,12 @@
 ## Interface: 11200
 ## Title: Bagnon_Options
 ## Notes: A configuration menu for Bagnon
+## Notes-ruRU: Меню настроек для Bagnon
 ## Author: Tuller
 ## Dependencies: Bagnon_Core
 ## LoadOnDemand: 1
 localization.lua
+localization.ru.lua
 localization.es.lua
 localization.fr.lua
 localization.de.lua

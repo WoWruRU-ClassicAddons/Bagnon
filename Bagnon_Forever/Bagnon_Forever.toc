@@ -1,11 +1,13 @@
 ## Interface: 11200
 ## Title: Bagnon_Forever
 ## Notes: Allows the viewing of the bank from anywhere, and also the inventory of your other characters.
+## Notes-ruRU: Позволяет просматривать ваш банк в любом месте, а так же инвентарь ваших других персонажей.
 ## Author: Tuller
 ## DefaultState: Enabled
 ## Dependencies: Bagnon_Core
 ## SavedVariables: BagnonForeverData
 localization.lua
+localization.ru.lua
 localization.de.lua
 localization.fr.lua
 localization.cn.lua
